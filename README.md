@@ -1,4 +1,4 @@
 # apna-college-demo
-This is nmy first Git Repository
+This is my first Git Repository
 <br>
 Author - Abhinava Kondeti
