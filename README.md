@@ -1,2 +1,4 @@
 # apna-college-demo
-This is new apna-college repository - Abhinava Kondeti
+This is nmy first Git Repository
+<br>
+Author - Abhinava Kondeti
